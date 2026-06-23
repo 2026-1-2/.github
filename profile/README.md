@@ -12,11 +12,11 @@
   
 ### 팀원회의
 - 2026-03-07: 팀원회의(1차)
-- 2026-03-10: [팀원회의(2차)]((https://github.com/2026-1-2/docs/blob/main/minutes/2026.03.10.(%ED%99%94)%20%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%20%EB%B0%9C%ED%91%9C%20%ED%9A%8C%EC%9D%98%20-%203%EC%B0%A8.md))
+- 2026-03-10: [팀원회의(2차)](https://github.com/2026-1-2/docs/blob/main/minutes/2026.03.10.(%ED%99%94)%20%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%20%EB%B0%9C%ED%91%9C%20%ED%9A%8C%EC%9D%98%20-%203%EC%B0%A8.md)
 - 2026-03-20: [팀원회의(3차)](https://github.com/2026-1-2/docs/blob/main/minutes/2026.03.20.(%EA%B8%88)%20%EB%B9%84%EB%8C%80%EB%A9%B4%20%ED%9A%8C%EC%9D%98%20-%204%EC%B0%A8.md)
 - 2026-03-31: 팀원회의(4차)
-- 2026-04-28: 팀원회의(5차)
-- 2026-05-05: 팀원회의(6차)
+- 2026-04-28: [팀원회의(5차)](https://github.com/2026-1-2/docs/blob/main/minutes/2026.04.28.(%ED%99%94)%20%EB%B9%84%EB%8C%80%EB%A9%B4%20%ED%9A%8C%EC%9D%98%20-%20%EA%B0%9C%EB%B0%9C%20%EC%A4%91%EA%B0%84%20%EC%A0%90%EA%B2%80.md)
+- 2026-05-05: [팀원회의(6차)](https://github.com/2026-1-2/docs/blob/main/minutes/2026.05.05.(%ED%99%94)%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%202%20%EC%A4%80%EB%B9%84%20%ED%9A%8C%EC%9D%98%20-%205%EC%B0%A8.md)
 - 2026-06-06: [팀원회의(7차)](https://github.com/2026-1-2/docs/blob/main/minutes/2026.06.06.(%ED%86%A0)%20%EB%B9%84%EB%8C%80%EB%A9%B4%20%ED%9A%8C%EC%9D%98%20-%20SW%20%EB%93%B1%EB%A1%9D%20%EB%B0%8F%20%EC%84%B1%EB%8A%A5%20%EA%B2%80%EC%A6%9D.md)
 
 ---
