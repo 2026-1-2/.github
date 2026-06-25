@@ -11,7 +11,7 @@
 - 2026-06-02: [멘토회의(5차) 및 영상촬영](https://github.com/2026-1-2/docs/blob/main/minutes/2026.06.02.(%ED%99%94)%20%ED%9A%8C%EC%82%AC%20%EB%B0%A9%EB%AC%B8%20%ED%9A%8C%EC%9D%98%20-%20Demo%20Video%20%EB%85%B9%ED%99%94.md)
   
 ### 팀원회의
-- 2026-03-07: 팀원회의(1차)
+- 2026-03-07: [팀원회의(1차)](https://github.com/2026-1-2/docs/blob/main/minutes/2026.03.07.%28%ED%86%A0%29%20%EB%B9%84%EB%8C%80%EB%A9%B4%20%ED%9A%8C%EC%9D%98%20-%20%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84%20%EB%B0%8F%20%EC%97%AD%ED%95%A0%20%EB%B6%84%EB%8B%B4.md)
 - 2026-03-10: [팀원회의(2차)](https://github.com/2026-1-2/docs/blob/main/minutes/2026.03.10.(%ED%99%94)%20%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%20%EB%B0%9C%ED%91%9C%20%ED%9A%8C%EC%9D%98%20-%203%EC%B0%A8.md)
 - 2026-03-20: [팀원회의(3차)](https://github.com/2026-1-2/docs/blob/main/minutes/2026.03.20.(%EA%B8%88)%20%EB%B9%84%EB%8C%80%EB%A9%B4%20%ED%9A%8C%EC%9D%98%20-%204%EC%B0%A8.md)
 - 2026-03-31: [팀원회의(4차)](https://github.com/2026-1-2/docs/blob/main/minutes/2026.03.31.(%ED%99%94)%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%20%EC%A0%84%20%ED%9A%8C%EC%9D%98.md)
